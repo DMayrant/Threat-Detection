@@ -9,3 +9,5 @@
 Security groups are stateful firewalls that act on the instance level, that that implicitly denies all ingress traffic following to your VPC.
 
 🛠️ In this project, a threat detection environment is set up using AWS services such as VPC flow logs, S3, IAM roles and policies, Amazon Managed Grafana, and AWS API Gateway. A VPC was deployed containing both public and private subnets, configure VPC flow logs to capture network traffic, store the logs in an S3 bucket, and visualize the data using Grafana dashboards. Additionally, we will implement security best practices by creating IAM roles and policies to ensure secure access to resources and protect the backend Aurora databases. A lambda function will be used when triggered for automation of log findings detect suspicious activity. a node.js script is used as a runtime dependency for the lambda function. 
+
+![image alt](https://github.com/DMayrant/Threat-Detection/blob/main/ThreatAutomation.jpeg?raw=true)

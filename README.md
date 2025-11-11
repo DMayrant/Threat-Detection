@@ -1,6 +1,6 @@
 # 👮🏾‍♂️ Threat Hunting and Automation 🚨
 
-☁️ The MITRE ATT&CK framework is a globally accepted widely known framework for responding to adversarial tactic, techniques and common knowledge real world threats and threat actors. Addressing the common ways threat actors may navigate in your cloud environment. Threat hunting allows cloud security engineers to check for threats and vulnerabilities within the cloud environment. This framework brings Cyber threat Intelligence (CTI)to organizations. 
+☁️ The MITRE ATT&CK framework is a globally accepted widely known framework for responding to adversarial tactic, techniques and common knowledge real world threats and threat actors. Addressing the common ways threat actors may navigate in your cloud environment. Threat hunting allows cloud security engineers to check for threats and vulnerabilities within the cloud environment. This framework brings Cyber threat Intelligence (CTI)to organizations. The common tactics threats actors will use to access your account is reconnaissance, defense evasion, lateral movement and exfiltration 
 
 🕵🏾‍♂️ Certain AWS tools can help detect and monitor anomalies and abnormal behavior within your cloud environment such as Amazon Guardduty. Guardduty offers threat detection and a dashboard showing you examples of healthy traffic flowing within your cloud environment. Guardduty can also be used a security backend for a CI/CD pipeline
 
